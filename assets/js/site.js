@@ -5,7 +5,7 @@
     phone: "+212 5 37 37 40 96",
     tel: "+212537374096",
     email: "cliniqueveterinairedugharb@gmail.com",
-    address: "464 avenue Mohammed V, Kénitra, Maroc",
+    address: "464 Avenue Mohammed V, 14 000, Kénitra, Maroc",
     map: "https://www.google.com/maps/search/?api=1&query=464+avenue+Mohammed+V+Kenitra+Maroc"
   };
 

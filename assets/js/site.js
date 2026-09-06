@@ -365,7 +365,7 @@
   }
 
   function appointmentSideCard() {
-    return `<aside class="side-card"><div class="side-card-body"><span class="eyebrow">Besoin d'aide ?</span><h3>Nous sommes à votre écoute</h3><p>Pour une situation urgente ou si vous hésitez sur le motif, appelez directement la clinique.</p><div class="side-meta"><span>${icon("phone")}<a href="tel:${CONTACT.tel}">${CONTACT.phone}</a></span><span>${icon("clock")}Lun–ven 08:30–19:00<br>Sam 09:00–17:00</span><span>${icon("mapPin")}${CONTACT.address}</span></div><a class="btn btn-primary btn-block" href="rendez-vous.html">Prendre rendez-vous</a><a class="btn btn-urgent btn-block" href="urgences.html">Voir les urgences</a></div></aside>`;
+    return `<aside class="side-card"><div class="side-card-body"><span class="eyebrow">Besoin d'aide ?</span><h3>Nous sommes à votre écoute</h3><p>Pour une situation urgente ou si vous hésitez sur le motif, appelez directement la clinique.</p><div class="side-meta"><span>${icon("phone")}<a href="tel:${CONTACT.tel}">${CONTACT.phone}</a></span><span>${icon("clock")}Lun–Ven 08:30–19:00<br>Sam 09:00–17:00</span><span>${icon("mapPin")}${CONTACT.address}</span></div><a class="btn btn-primary btn-block" href="rendez-vous.html">Prendre rendez-vous</a><a class="btn btn-urgent btn-block" href="urgences.html">Voir les urgences</a></div></aside>`;
   }
 
   function servicePage(slug) {

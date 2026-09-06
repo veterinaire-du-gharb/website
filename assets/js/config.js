@@ -13,7 +13,7 @@ window.VDG_CONFIG = Object.freeze({
   },
   map: {
     provider: "Google Maps",
-    query: "464 avenue Mohammed V, Kénitra, Maroc",
-    externalUrl: "https://www.google.com/maps/search/?api=1&query=464+avenue+Mohammed+V+Kenitra+Maroc"
+    query: "464 Avenue Mohammed V, 14 000, Kénitra, Maroc",
+    externalUrl: "https://www.google.com/maps/search/?api=1&query=464+avenue+Mohammed+V+14000+Kenitra+Maroc"
   }
 });

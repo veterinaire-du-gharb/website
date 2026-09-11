@@ -2,8 +2,7 @@
   "use strict";
 
   const CONTACT = {
-    phone: "+212 5 37 37 40 96",
-    tel: "+212537374096",
+    phone: "+212 6 61 20 78 25",
     email: "cliniqueveterinairedugharb@gmail.com",
     address: "464 Avenue Mohammed V, 14 000, Kénitra, Maroc",
     map: "https://www.google.com/maps/search/?api=1&query=464+avenue+Mohammed+V+14000+Kenitra+Maroc"

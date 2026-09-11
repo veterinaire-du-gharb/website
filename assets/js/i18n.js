@@ -47,8 +47,8 @@
     "Besoin d'aide ?": "محتاج المساعدة؟",
     "Nous sommes à votre écoute": "حنا هنا باش نسمعوك",
     "Pour une situation urgente ou si vous hésitez sur le motif, appelez directement la clinique.": "إلا كانت الحالة مستعجلة ولا ما عرفتيش شنو تختار، عيّط للمصحة مباشرة.",
-    "Lun–Ven 08:30–19:00": "الاثنين–الجمعة 08:30–19:00",
-    "Sam 09:00–17:00": "السبت 09:00–17:00",
+    "Lun–Ven 09:00–12:30": "الاثنين–الجمعة 19:30–15:00",
+    "Sam 09:00–12:30": "السبت 17:00–15:00",
     "Voir les urgences": "شوف المستعجلات",
 
     /* Home */
